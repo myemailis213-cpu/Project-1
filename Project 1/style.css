@@ -1,23 +1,23 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background-color: #fefdfd;
   padding: 20px;
 }
 
 h1, h2 {
-  color: #333;
+  color: #ece6e6;
 }
 
 section {
-  background: white;
+  background: rgb(164, 161, 160);
   padding: 15px;
   margin-bottom: 15px;
   border-radius: 8px;
 }
 
 button {
-  background-color: black;
-  color: white;
+  background-color: rgb(244, 242, 242);
+  color: rgb(234, 230, 228);
   padding: 10px 15px;
   border: none;
   border-radius: 6px;
